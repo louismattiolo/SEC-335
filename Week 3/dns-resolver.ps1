@@ -8,7 +8,6 @@ For ($i=1; $i -le 254; $i++) {
 
     # Construct the full IP address for the current iteration.
     $ip = "$networkPrefix.$i"
-    
     # Attempt to resolve the IP address.
     $result = Resolve-DnsName -Name $ip -Server $dnsServer -ErrorAction SilentlyContinue
 
