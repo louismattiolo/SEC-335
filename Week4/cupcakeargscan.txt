@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Mon Sep 29 16:56:02 2025 as: /usr/lib/nmap/nmap -A -Pn -oG cupcakeargscan.txt cupcake.shire.org
+Host: 166.117.110.61 ()	Status: Up
+Host: 166.117.110.61 ()	Ports: 80/open/tcp//http-proxy//HAProxy http proxy 2.0.0 or later/, 443/open/tcp//tcpwrapped///	Ignored State: filtered (998)	Seq Index: 254	IP ID Seq: All zeros
+# Nmap done at Mon Sep 29 16:56:54 2025 -- 1 IP address (1 host up) scanned in 52.00 seconds
